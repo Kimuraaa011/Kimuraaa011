@@ -1,7 +1,7 @@
 ### Hi there, eu sou o Gabriel Almeida, desenvolvedor full Stack 👋
 
-🌱 Aprendendo e estudando as linguagens PHP e javascript para o desenvolvimento de sistemas web <p>
-🕶  A procura de vagas de desenvolvedor junior ou estágio em desenvolvimento <p>
+🌱 Cada vez mais em busca de conhecimentos relacionados a desenvolvimento web com React.js, Node.js. E , futuramente, aprender sobre desenvolvimento mobile <p>
+🕶  A procura de vagas de desenvolvedor junior em desenvolvimento Web <p>
 📫 É possível contactar-me através do e-mail "gabriel.al.enginner@gmail.com" <p>
 
 <div align="center">
